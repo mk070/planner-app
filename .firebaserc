@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "madhan-planner-app-68cbe",
+    "subha-planner-app": "subha-planner-app",
+    "madhan-planner-app": "madhan-planner-app-68cbe"
+  },
+  "targets": {},
+  "etags": {}
+}

@@ -1,5 +1,6 @@
 # Description of my custom widgets
 
+
 ## 1.Weather Widget:
 The Weather Widget is an essential feature of the planner app, providing users with real-time weather information. It displays current temperature, weather conditions, and a forecast for upcoming days. With this widget, users can plan their activities accordingly, whether it's scheduling outdoor events, deciding on appropriate clothing, or preparing for inclement weather.
 

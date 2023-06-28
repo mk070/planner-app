@@ -3,6 +3,7 @@
 ## 1.Weather Widget:
 The Weather Widget is an essential feature of the planner app, providing users with real-time weather information. It displays current temperature, weather conditions, and a forecast for upcoming days. With this widget, users can plan their activities accordingly, whether it's scheduling outdoor events, deciding on appropriate clothing, or preparing for inclement weather.
 
+
 ## 2.Stopwatch Widget: 
 The Stopwatch Widget is a practical tool that helps users manage their time effectively. It allows users to track the duration of tasks, workouts, or any activity that requires precise timing. By using the Stopwatch Widget, users can monitor their progress, set goals, and stay focused on completing tasks within specific timeframes.
 
@@ -12,7 +13,17 @@ The Location Widget integrates seamlessly with the planner app, providing users 
 ## 4.Music Widget:
 The Music Widget enhances the user experience by integrating music streaming services directly into the planner app. Users can browse and play their favorite songs, create playlists, and control playback without switching between apps. The Music Widget provides a seamless and personalized audio experience, allowing users to create a pleasant work environment or set the mood for their activities.
 
-## 5.Puzzle Game Widget: 
+## 5.Photo Widget: 
+The Photo Widget is a delightful addition to the planner app, allowing users to personalize their home screen with cherished images. This widget enables users to upload their own photos and display them within a fixed-sized frame on the app's screen.
+
+With the Photo Widget, users can showcase their favorite memories, inspirational quotes, or motivational images, adding a personal touch to their planning experience. The fixed size of the frame ensures a consistent and visually appealing display of the uploaded photo.
+
+### To use the Photo Widget, 
+simply select the widget from the app's widget menu, choose the desired image from your gallery, and position the widget on the home screen. Users can change the photo whenever they like, keeping their planner app's interface fresh and meaningful.
+
+The Photo Widget allows users to infuse their planner app with their own visual inspiration, fostering a sense of connection and motivation throughout their planning journey
+
+## 6.Puzzle Game Widget: 
 The Puzzle Game Widget offers a delightful and engaging number puzzle game that challenges your problem-solving skills. The objective is to arrange a set of numbers in ascending order within a grid.
 
 ### To play the Puzzle Game Widget:

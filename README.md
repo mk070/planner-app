@@ -15,7 +15,7 @@ The Music Widget enhances the user experience by integrating music streaming ser
 ## Puzzle Game Widget: 
 The Puzzle Game Widget offers a delightful and engaging number puzzle game that challenges your problem-solving skills. The objective is to arrange a set of numbers in ascending order within a grid.
 
-## To play the Puzzle Game Widget:
+### To play the Puzzle Game Widget:
 1. Add the Puzzle Game Widget to your planner app's home screen or widget area.
 2. Launch the widget, and it will display a grid with a scrambled arrangement of numbers.
 3. Tap on a number adjacent to the empty space to swap their positions. Continue rearranging the numbers until they are in ascending order.
@@ -31,4 +31,4 @@ The Puzzle Game Widget offers a simple yet engaging number puzzle that challenge
 3. Interact with each widget by tapping on them to access their specific functionalities.
 4. Personalize widget settings, such as location permissions for the Weather and Location Widgets, or music streaming service integration for the Music Widget, within the app's settings or widget configuration options.
 
-These custom-made widgets enhance the planner app by providing valuable information, entertainment, and productivity tools, all easily accessible within a single interface. They aim to streamline your planning process, keep you informed, and make your daily activities more enjoyable and efficient.
+**These custom-made widgets enhance the planner app by providing valuable information, entertainment, and productivity tools, all easily accessible within a single interface. They aim to streamline your planning process, keep you informed, and make your daily activities more enjoyable and efficient.**

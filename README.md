@@ -1,9 +1,5 @@
 # Description of my custom widgets
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
 ## Weather Widget:
 The Weather Widget is an essential feature of the planner app, providing users with real-time weather information. It displays current temperature, weather conditions, and a forecast for upcoming days. With this widget, users can plan their activities accordingly, whether it's scheduling outdoor events, deciding on appropriate clothing, or preparing for inclement weather.
 
@@ -20,12 +16,19 @@ The Music Widget enhances the user experience by integrating music streaming ser
 The Puzzle Game Widget offers a delightful and engaging number puzzle game that challenges your problem-solving skills. The objective is to arrange a set of numbers in ascending order within a grid.
 
 ## To play the Puzzle Game Widget:
-Add the Puzzle Game Widget to your planner app's home screen or widget area.
-Launch the widget, and it will display a grid with a scrambled arrangement of numbers.
-Tap on a number adjacent to the empty space to swap their positions. Continue rearranging the numbers until they are in ascending order.
-You can track your progress by aiming to complete the puzzle in the fewest number of moves or shortest time.
-If you find yourself stuck, some versions of the game may provide hints or an option to reset the puzzle.
+1. Add the Puzzle Game Widget to your planner app's home screen or widget area.
+2. Launch the widget, and it will display a grid with a scrambled arrangement of numbers.
+3. Tap on a number adjacent to the empty space to swap their positions. Continue rearranging the numbers until they are in ascending order.
+4. You can track your progress by aiming to complete the puzzle in the fewest number of moves or shortest time.
+5. If you find yourself stuck, some versions of the game an option to reset the puzzle.
 Enjoy the satisfaction of solving the puzzle and improving your logical thinking skills.
 The Puzzle Game Widget offers a simple yet engaging number puzzle that challenges your ability to arrange numbers in ascending order. It serves as a fun diversion within the planner app, allowing you to take short mental breaks and exercise your problem-solving abilities.
 
-Each widget serves a specific purpose within the planner app, adding value and convenience to the user experience. Whether it's staying informed about the weather, managing time effectively, navigating to locations, engaging in puzzles, or enjoying music, these widgets cater to various needs and enhance productivity and enjoyment throughout the planning process.
+## To use these widgets:
+
+1. Add the widgets to your planner app's home screen or widget area by long-pressing on a vacant space and selecting "Add Widget" or a similar option.
+2. Customize the placement of widgets by dragging and dropping them to your preferred positions on the screen.
+3. Interact with each widget by tapping on them to access their specific functionalities.
+4. Personalize widget settings, such as location permissions for the Weather and Location Widgets, or music streaming service integration for the Music Widget, within the app's settings or widget configuration options.
+
+These custom-made widgets enhance the planner app by providing valuable information, entertainment, and productivity tools, all easily accessible within a single interface. They aim to streamline your planning process, keep you informed, and make your daily activities more enjoyable and efficient.
